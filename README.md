@@ -1,6 +1,6 @@
 # 🔧 GitHub MCP Tool Server
 
-This repo contains a lightweight [MCP (Model Context Protocol)](https://docs.anthropic.com/claude/docs/mcp-overview) server that exposes simple GitHub utilities — allowing AI applications like Cursor or Claude to interact with GitHub repositories.
+This repo contains a lightweight [MCP (Model Context Protocol)](https://modelcontextprotocol.io/introduction) server that exposes simple GitHub utilities — allowing AI applications like Cursor or Claude to interact with GitHub repositories.
 
 ### ✨ Features
 - ✅ `get_repo_summary(repo_url)` — Fetches basic metadata of a GitHub repository
